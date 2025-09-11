@@ -39,3 +39,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 - Install shadcn
   - npx shadcn@latest init
+- Add shadcn button component
+  - npx shadcn@latest add button
