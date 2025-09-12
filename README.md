@@ -43,3 +43,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
   - npx shadcn@latest add button
 - Install phosphor-icons
   - npm install @phosphor-icons/react
+- Install embla carousel
+  - npm install embla-carousel-react
