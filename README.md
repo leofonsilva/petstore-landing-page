@@ -45,3 +45,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
   - npm install @phosphor-icons/react
 - Install embla carousel
   - npm install embla-carousel-react
+- Install aos
+  - npm install aos
+  - npm i --save-dev @types/aos
