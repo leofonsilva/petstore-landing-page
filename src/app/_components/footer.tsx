@@ -49,9 +49,9 @@ export function Footer() {
             <h3 className="text-2xl font-semibold mb-2">Pet Shop Dev</h3>
             <p className="mb-4">Cuidando do seu melhor amigo com amor e dedicação.</p>
             <a
-              href="#"
-              className="bg-green-500 px-5 py-2 rounded-md flex items-center justify-center w-fit gap-2"
               target="_blank"
+              href={`https://wa.me/5519984242515?text=Olá, vim pelo site e gostaria de saber mais informações.`}
+              className="bg-green-500 px-5 py-2 rounded-md flex items-center justify-center w-fit gap-2"
             >
               <WhatsappLogoIcon className="w-5 h-5 text-white" />
               Contato via WhatsApp
@@ -62,7 +62,7 @@ export function Footer() {
             <h3 className="text-2xl font-semibold mb-2">Contatos</h3>
             <p>Email: leonardofonsecasilva@hotmail.com</p>
             <p>Telefone: (19) 98424-2515</p>
-            <p>Rua Miguel Pinelli, 91, Parque Ortolândia, Hortolândia/SP</p>
+            <p>Rua das Oliveiras, 910, Centro, Hortolândia/SP</p>
           </div>
 
           <div>
@@ -89,7 +89,7 @@ export function Footer() {
             </div>
           </div>
         </footer>
-        
+
       </div>
     </section>
   )

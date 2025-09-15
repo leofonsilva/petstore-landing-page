@@ -32,7 +32,8 @@ export function Hero() {
             </p>
 
             <a
-              href="#"
+              target="_blank"
+              href={`https://wa.me/5519984242515?text=Olá, vim pelo site e gostaria de saber mais informações.`}
               className="bg-green-500 px-5 py-2 rounded-md font-semibold flex items-center justify-center w-fit gap-2"
             >
               <WhatsappLogoIcon className="w-5 h-5" />
